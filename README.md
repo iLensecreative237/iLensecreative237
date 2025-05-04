@@ -19,7 +19,7 @@ I'm an **Operations and Quality Assurance Manager at a fintech startup, where I 
 ![image](https://github.com/user-attachments/assets/3733d0df-9a69-4903-bce2-5001f561714b)
 ![image](https://github.com/user-attachments/assets/8f83aa2b-38e0-458d-8e1e-c93cf07adca6)
 ![image](https://github.com/user-attachments/assets/95f25677-ea67-4925-8860-6f7e1033c6b2)
-![image](https://github.com/user-attachments/assets/f2b9d32c-c25d-4470-9d4a-82e5cdb0ff09)
+![image](https://github.com/user-attachments/assets/df493005-8ce3-461e-8154-5aa8a8fec598)
 
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
@@ -28,7 +28,8 @@ I'm an **Operations and Quality Assurance Manager at a fintech startup, where I 
 
 ### [Media Information Literacy Mobile App UI ](https://drive.google.com/file/d/1JBYYScCaTXPdwpXwttl4p3Pln4bhC9Cn/view?usp=sharing)
 
-![image](https://github.com/user-attachments/assets/b3956b4c-b96f-4fe1-9120-3333801e3068)
+![image](https://github.com/user-attachments/assets/52d2021f-d2b1-424e-899e-e1ab88b034eb)
+
 
 
 **Media Information Literacy Mobile App UI** is a **African Educational App UI** built with **Figma**. This project demonstrates my ability of **graphic desinging,research**. You can check out the repository [here](project_1_repository_link).
